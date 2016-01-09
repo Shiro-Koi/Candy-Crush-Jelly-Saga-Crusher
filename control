@@ -1,0 +1,9 @@
+Package: com.endou.jellysagacheats
+Name: JellySagaCheats Cheats
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome Cydia Substrate tweak.
+Maintainer: Endou Mamoru
+Author: Endou Mamoru
+Section: Tweaks
