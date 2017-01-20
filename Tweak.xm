@@ -1,4 +1,3 @@
-/* Generated using http://armconverter.com/mshookgenerator */
 #import <substrate.h>
 #import <Foundation/Foundation.h>
 
